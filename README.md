@@ -291,8 +291,3 @@ Built an end-to-end sales operations analysis using Python, SQL, and Power BI to
 ## Author
 
 **Yashpal Saini**
-
-If you would like, I can also create:
-- a shorter GitHub README version
-- a more visual portfolio-case-study version
-- a version tailored specifically for a Google or GCS application
